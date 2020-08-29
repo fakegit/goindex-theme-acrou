@@ -103,7 +103,9 @@ var themeOptions = {
    * 音频播放器选项
    * Audio player options
    */
-  audio: {},
+  audio: {
+    audios: [],
+  },
 };
 // =======Options END=======
 
